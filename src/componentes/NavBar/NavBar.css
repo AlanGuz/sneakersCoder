@@ -1,11 +1,24 @@
 header{
+    background-color: #473B3F;
     display: flex;
     align-items: center;
     justify-content: space-between;
     border-bottom: 1px solid black;
 }
+ul{
+    background-color: #473B3F;
+}
 li{
+    background-color: #473B3F;
     display: inline-block;
     margin: 10px;
     cursor: pointer;
+    color: aliceblue;
+}
+nav{
+    background-color: #473B3F
+}
+h1{
+    background-color: #473B3F;
+    color: #7c6a4c;
 }

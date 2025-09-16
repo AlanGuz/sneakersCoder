@@ -1,3 +1,11 @@
+.carroCompra{
+    background-color: #473B3F;
+}
+.carroCompra strong{
+    background-color: #473B3F;
+    color: aliceblue;
+}
 .imgCarrito{
-    width: 45px;
+    width: 90px;
+    background-color: #473B3F;
 }
